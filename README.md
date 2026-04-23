@@ -11,4 +11,4 @@ A simple static e-commerce site with HTML, CSS, and JavaScript.
 
 ## Running
 
-Open any HTML file directly in a browser to see the
+Open any HTML file directly in a browser to see **how it looks.**
